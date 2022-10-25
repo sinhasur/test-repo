@@ -1,1 +1,2 @@
-Hello, this is a test file!
+Hello, this is a test file! 
+Check out this commit
